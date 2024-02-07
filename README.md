@@ -1,7 +1,7 @@
 ***
 
-# Hi There!
-I am Dep. A 16 year old who codes as a hobby. Currently, all projects that I've done are limited to discord(more specifically discord bots) but I hope to grow further from that.
+# Hello there,
+My name is Dep. I'm a 16 year old hobby developer. All projects in I have done so far are limited to Discord. I strive to grow further and work within the environment of bigger projects outside of what I have already done.
 
 ***
 
