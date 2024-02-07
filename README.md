@@ -32,4 +32,6 @@ I am Dep. A 16 year old who codes as a hobby. Currently, all projects that I've 
 ## Socials
 - [Discord](https://discord.com/users/688293803613880334)
 
+## GitHub Stats
 ![Github Stats](/github-metrics.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Depreca1ed&show_icons=true)
