@@ -32,5 +32,4 @@ I am Dep. A 16 year old who codes as a hobby. Currently, all projects that I've 
 ## Socials
 - [Discord](https://discord.com/users/688293803613880334)
 
-## GitHub Stats
-Am yet to add these thingies here, had to stop to check if i did everything right.
+![Github Stats](/github-metrics.svg)
