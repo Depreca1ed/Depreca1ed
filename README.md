@@ -8,7 +8,7 @@ My name is Dep. I'm a 16 year old hobby developer. All projects in I have done s
 ## Projects
 > [!NOTE]
 > All of my projects that I currently work on or have worked on are privated, although almost all of them are usable by everyone, unless stated otherwise. <3
-- Ely
+- [Ely (discontinued)](https://github.com/Depreca1ed/EmiliaBoT) 
   - A discord bot which does very basic functions along with a few specific server limited functions.
 - LateNight
   - A discord bot owned by @iLikeToTakeLean, partially developed by me along with him. Comparetively more features than Ely.
