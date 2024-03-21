@@ -25,7 +25,7 @@ My name is Dep. I'm a 16 year old hobby developer. All projects in I have done s
 
 
 ## Socials
-![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334) ![Static Badge](https://img.shields.io/badge/discord_server-FFA500?style=for-the-badge&logo=discord&logoColor=white&color=FFA500&link=https%3A%2F%2Fdiscord.gg%2F5cSQ8rHbJw)
+[![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334)](https://discord.com/users/688293803613880334) [![Static Badge](https://img.shields.io/badge/discord_server-FFA500?style=for-the-badge&logo=discord&logoColor=white&color=FFA500&link=https%3A%2F%2Fdiscord.gg%2F5cSQ8rHbJw)](https://discord.gg/5cSQ8rHbJw)
 
 
 ## GitHub Stats
