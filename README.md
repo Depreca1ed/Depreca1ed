@@ -37,7 +37,7 @@ My name is Dep. I'm a 16 year old hobby developer. All projects in I have done s
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=deprecating&show_icons=true&title_color=000000&text_color=FFFFFF&icon_color=222222&bg_color=FFFFFF"
+    srcset="https://github-readme-stats.vercel.app/api?username=deprecating&show_icons=true&title_color=000000&text_color=000000&icon_color=999999&bg_color=FFFFFF"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=deprecating&show_icons=true&title_color=000000&text_color=000000&icon_color=999999&bg_color=FFFFFF" />
