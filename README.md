@@ -6,29 +6,20 @@ My name is Dep. I'm a 16 year old hobby developer. All projects in I have done s
 ***
 
 ## Projects
-> [!NOTE]
-> All of my projects that I currently work on or have worked on are privated, although almost all of them are usable by everyone, unless stated otherwise. <3
-- [Emilia (discontinued)](https://github.com/Depreca1ed/EmiliaBoT) 
-  - A discord bot which does very basic functions along with a few specific server limited functions.
+
+- [Emilia](https://github.com/Depreca1ed/EmiliaBoT) 
 - LateNight
-  - A discord bot owned by @iLikeToTakeLean, partially developed by me along with him. Comparetively more features than Ely.
 
 ## Skillset
-- Beginner in
+- I barely know
   - Java, Javascript, Rust
-- Intermediate in
+- I have a good experience in
   - Python
-> [!TIP]
-> What I mean by the terms I've used.
-> - **Beginner**: I know the basics or less and I'm not confident in it
-> - **Intermediate**: I am good enough at it
-
 
 ## Socials
 [![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334)](https://discord.com/users/688293803613880334) [![Static Badge](https://img.shields.io/badge/discord_server-FFA500?style=for-the-badge&logo=discord&logoColor=white&color=FFA500&link=https%3A%2F%2Fdiscord.gg%2F5cSQ8rHbJw)](https://discord.gg/5cSQ8rHbJw)
 
 
-## GitHub Stats
 ![Github Stats](/github-metrics.svg)
 
 <picture>
