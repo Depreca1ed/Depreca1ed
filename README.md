@@ -6,19 +6,14 @@ My name is Dep. I'm a 16 year old hobby developer. All projects in I have done s
 ***
 
 ## Projects
-
-- [Emilia](https://github.com/Depreca1ed/EmiliaBoT) 
-- LateNight
+> No project namely of my own. I contribute to closed source discord bots at the moment but not enough to call them my own projects.
 
 ## Skillset
-- I barely know
-  - Java, Javascript, Rust
-- I have a good experience in
-  - Python
+I am somewhat good at python and slightly aware of how java, javascript and rust works.
 
 ## Socials
-[![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334)](https://discord.com/users/688293803613880334) [![Static Badge](https://img.shields.io/badge/discord_server-FFA500?style=for-the-badge&logo=discord&logoColor=white&color=FFA500&link=https%3A%2F%2Fdiscord.gg%2F5cSQ8rHbJw)](https://discord.gg/5cSQ8rHbJw)
-
+[![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334)](https://discord.com/users/688293803613880334) [![AniList](https://img.shields.io/badge/anilist-social?style=for-the-badge&logo=anilist&logoColor=FFFFFF&color=000435&link=https%3A%2F%2Fanilist.co%2Fuser%2FDeprecated%2F
+)](https://anilist.co/user/Deprecated/)
 
 ![Github Stats](/github-metrics.svg)
 
