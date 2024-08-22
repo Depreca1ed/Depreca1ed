@@ -15,8 +15,6 @@ I am somewhat good at python and slightly aware of how java, javascript and rust
 [![Discord](https://img.shields.io/badge/deprecating-FFFFFF?style=for-the-badge&logo=discord&logoColor=white&color=5539cc&link=https%3A%2F%2Fdiscord.com%2Fusers%2F688293803613880334)](https://discord.com/users/688293803613880334) [![AniList](https://img.shields.io/badge/anilist-social?style=for-the-badge&logo=anilist&logoColor=FFFFFF&color=000435&link=https%3A%2F%2Fanilist.co%2Fuser%2FDeprecated%2F
 )](https://anilist.co/user/Deprecated/)
 
-![Github Stats](/github-metrics.svg)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Depreca1ed&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=999999&bg_color=000000"
@@ -28,3 +26,5 @@ I am somewhat good at python and slightly aware of how java, javascript and rust
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Depreca1ed&show_icons=true&title_color=000000&text_color=000000&icon_color=999999&bg_color=FFFFFF" />
 </picture>
+
+![Github Stats](/github-metrics.svg)
